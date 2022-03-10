@@ -10,4 +10,4 @@ iii) yarn start <br/>
 - Reanimated <br/>
 - Native Base <br/>
 - TypeScript <br/>
-- etc
+- Moti
