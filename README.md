@@ -12,4 +12,4 @@
 - Moti
 
 # Screens
-![Not Loading](https://drive.google.com/file/d/1AtA3i7oaHost_Cbk7wNbvUuX-x1uNtPD/view?usp=sharing)
+![Not Loading](https://lh3.googleusercontent.com/d/1AtA3i7oaHost_Cbk7wNbvUuX-x1uNtPD)
