@@ -11,3 +11,8 @@
 - Native Base <br/>
 - TypeScript <br/>
 - Moti
+
+# Features
+- Todo List
+- Animation
+- Dark and Night Mode
