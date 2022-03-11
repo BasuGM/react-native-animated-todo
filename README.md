@@ -1,3 +1,6 @@
+# Introduction
+A simple todo app with Animation
+
 # Installation
 - git clone https://github.com/BasuGM/react-native-animated-todo.git <br/>
 - yarn <br/>
